@@ -13,6 +13,7 @@ DEEPL_API_URL = "https://api-free.deepl.com/v2/translate"
 SOURCE_DIR = os.getenv('SOURCE_DIR')
 TARGET_DIR = "quests_translated"
 
+# ...\\this modpack\\global_packs\\required_data\\DawnCraft_Datapack\\data\\quest_giver\\quests
 START_FROM_QUEST = "quest_0024"
 
 
